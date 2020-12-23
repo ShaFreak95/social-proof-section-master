@@ -169,7 +169,7 @@ span {
   margin: 1rem auto 0 44rem;
 }
 
-@media (max-width: 1150px) { /* */
+@media (max-width: 1100px) { /* */
   body {
     body {
       background: url('../images/bg-pattern-top-desktop.svg') no-repeat 6.25% 0 / 35%,
