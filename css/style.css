@@ -3,7 +3,7 @@ body {
   url('../images/bg-pattern-bottom-desktop.svg') no-repeat 25rem 6.875rem/ 70.5%;
    /* note to self: if img are in different folders, use this */
    background-color: hsl(0, 0%, 100%);
-   font-family: 'Spartan', sans-serif;
+   font-family: 'spartan', sans-serif;
    font-size: 93.75%;
    margin: 0;
    text-align: center;
@@ -34,7 +34,7 @@ span {
   display: inline-block;
   width: 19rem;
   margin: 5rem 1rem 1rem 22rem;
-  height: 11.5rem;
+  height: 13rem;
   text-align: center;
   position: absolute;
 }
@@ -46,7 +46,7 @@ span {
   display: inline-block;
   width: 19rem;
   margin: 3rem 1rem 1rem 9.5rem;
-  height: 11.5rem;
+  height: 13rem;
   text-align: center;
 }
 
@@ -62,7 +62,7 @@ span {
   display: inline-block;
   width: 19rem;
   margin: 4rem 1rem 1rem;
-  height: 11.5rem;
+  height: 13rem;
   text-align: center;
   position: absolute;
 }
@@ -84,7 +84,7 @@ span {
   color: hsl(300, 43%, 22%);
   line-height: 1;
   margin: 0;
-  width: 20rem;
+  width: 24rem;
   font-size: 2.625rem;
 }
 
@@ -95,8 +95,9 @@ span {
 .user-description {
   color: hsl(300, 24%, 96%);
   display: inline-block;
+  margin: 0.9rem 1rem 0;
   text-align: left;
-  width: 15.625rem;
+  width: 16rem;
 }
 
 .user-name {
@@ -113,9 +114,9 @@ span {
 }
 
 .rating-positioning {
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   margin: 1rem auto;
-  padding-left: 5rem;
+  padding-left: 7rem;
 }
 
 .star-first-rating {
@@ -210,7 +211,7 @@ span {
     display: block;
     width: 20rem;
     margin: 1rem auto;
-    height: 11.5rem;
+    height: 13rem;
     position: static;
   }
 
@@ -220,7 +221,7 @@ span {
     display: block;
     width: 20rem;
     margin: 1rem auto;
-    height: 11.5rem;
+    height: 13rem;
   }
 
   .feedback-irene {
@@ -229,7 +230,7 @@ span {
     display: block;
     width: 20rem;
     margin: 1rem auto;
-    height: 11.5rem;
+    height: 13rem;
     position: static;
   }
 
